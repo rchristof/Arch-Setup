@@ -1,0 +1,15 @@
+#!/bin/sh
+
+case $BLOCK_BUTTON in
+    2) setsid -f "$TERMINAL" -e "df -h" ;;
+    3) notify-send "💾 Disk Usage Module" "\- Shows the available disk space.
+- Click to open a terminal with detailed disk usage.
+- Middle click to display a notification." ;;
+    6) setsid -f "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
+
+# Get the available disk space on the root filesystem
+disk_space=$(df -h / | awk 'NR==2 {print $4}')
+
+# Print the disk usage in a readable format
+echo "💾$disk_space"

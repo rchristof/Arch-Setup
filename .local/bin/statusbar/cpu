@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# Use mpstat to get the CPU usage
+if command -v mpstat > /dev/null 2>&1; then
+    cpu_idle=$(mpstat 1 1 | awk '/Average:/ {print $12}')
+    cpu_usage=$(echo "100 - $cpu_idle" | bc)
+else
+    # Fallback to using top if mpstat is not available
+    cpu_usage=$(top -bn1 | grep "Cpu(s)" | sed "s/.*, *\([0-9.]*\)%* id.*/\1/" | awk '{print 100 - $1}')
+fi
+
+# Print the CPU usage in a readable format
+echo "🖥 ${cpu_usage}%"

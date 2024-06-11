@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/dana/notas" added="2024-05-27T21:20:07.887538Z" modified="2024-05-27T21:20:07.887549Z" visited="2024-05-27T21:20:07.887540Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-05-27T21:20:07.887543Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/vaults" added="2024-05-27T21:20:39.492589Z" modified="2024-05-27T21:20:39.492604Z" visited="2024-05-27T21:20:39.492592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-05-27T21:20:39.492596Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/todo-pureC" added="2024-06-03T05:04:36.801065Z" modified="2024-06-03T05:04:36.801079Z" visited="2024-06-03T05:04:36.801068Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-06-03T05:04:36.801072Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/todo-pureC/main.c" added="2024-06-03T05:06:23.801092Z" modified="2024-06-03T05:06:23.801105Z" visited="2024-06-03T05:06:23.801095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-06-03T05:06:23.801099Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/projeto-inf1039" added="2024-06-03T17:00:17.326791Z" modified="2024-06-05T20:03:37.554464Z" visited="2024-06-03T17:00:17.326793Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-06-05T20:03:37.554459Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/calcC" added="2024-06-05T00:59:25.461422Z" modified="2024-06-05T20:15:39.925969Z" visited="2024-06-05T00:59:25.461425Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-06-05T20:15:39.925963Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/proj-inf-1039" added="2024-06-05T16:24:13.092115Z" modified="2024-06-05T16:24:13.092128Z" visited="2024-06-05T16:24:13.092117Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-06-05T16:24:13.092121Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/proj-inf-1039/projeto-inf1039" added="2024-06-05T16:25:26.660936Z" modified="2024-06-10T17:20:20.541410Z" visited="2024-06-05T16:25:26.660938Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-06-10T17:20:20.541406Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/Downloads/image%207.png" added="2024-06-05T16:43:11.534481Z" modified="2024-06-05T16:43:11.534501Z" visited="2024-06-05T16:43:11.534484Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-05T16:43:11.534493Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/Downloads/image%207(1).png" added="2024-06-05T16:43:12.103431Z" modified="2024-06-05T16:43:12.103451Z" visited="2024-06-05T16:43:12.103433Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-05T16:43:12.103440Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/Downloads/image%209.png" added="2024-06-05T16:49:28.924333Z" modified="2024-06-05T16:49:28.924353Z" visited="2024-06-05T16:49:28.924336Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-05T16:49:28.924342Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/Downloads/image%2010.png" added="2024-06-05T16:49:37.322970Z" modified="2024-06-05T16:49:37.323053Z" visited="2024-06-05T16:49:37.322992Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-05T16:49:37.323031Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/Downloads/image%202.png" added="2024-06-05T16:49:48.093768Z" modified="2024-06-05T16:49:48.093786Z" visited="2024-06-05T16:49:48.093771Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-05T16:49:48.093776Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/firefox" added="2024-06-05T16:51:15.799858Z" modified="2024-06-05T16:51:15.799947Z" visited="2024-06-05T16:51:15.799862Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-05T16:51:15.799898Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/.local/bin/statusbar/battery" added="2024-06-11T01:19:50.844106Z" modified="2024-06-11T01:20:00.366304Z" visited="2024-06-11T01:19:50.844109Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-11T01:20:00.366293Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/.local/bin/statusbar/cpu" added="2024-06-11T01:20:00.366348Z" modified="2024-06-11T01:20:00.366361Z" visited="2024-06-11T01:20:00.366350Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-11T01:20:00.366355Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/.local/bin/statusbar/clock" added="2024-06-11T01:20:00.366388Z" modified="2024-06-11T01:20:00.366400Z" visited="2024-06-11T01:20:00.366390Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-11T01:20:00.366395Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/.local/bin/statusbar/disk_usage" added="2024-06-11T01:20:00.366427Z" modified="2024-06-11T01:20:00.366441Z" visited="2024-06-11T01:20:00.366429Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-11T01:20:00.366434Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dana/.local/bin/statusbar/disk_space" added="2024-06-11T01:20:00.366467Z" modified="2024-06-11T01:20:00.366479Z" visited="2024-06-11T01:20:00.366469Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-06-11T01:20:00.366473Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

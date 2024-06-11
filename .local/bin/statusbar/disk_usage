@@ -1,0 +1,16 @@
+#!/bin/sh
+
+case $BLOCK_BUTTON in
+    2) setsid -f "$TERMINAL" -e htop ;;
+    3) notify-send "💻 RAM Usage Module" "\- Shows the current RAM usage.
+- Click to open htop.
+- Middle click to display a notification." ;;
+    6) setsid -f "$TERMINAL" -e "$EDITOR" "$0" ;;
+esac
+
+# Get the total and used memory
+total_mem=$(free -h | awk '/^Mem:/ {print $2}')
+used_mem=$(free -h | awk '/^Mem:/ {print $3}')
+
+# Print the RAM usage in a readable format
+echo "💻$used_mem"

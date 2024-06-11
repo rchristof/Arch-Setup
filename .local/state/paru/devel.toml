@@ -1,0 +1,7 @@
+[[libclipboard-git]]
+url = "https://github.com/jtanx/libclipboard"
+commit = "3d2cb08d90a18a9e5010ee0a27c83aa4b4f877a7"
+
+[[libleif]]
+url = "https://github.com/cococry/leif.git"
+commit = "a8af421fd4bf79ae0c49783a42c54e039dedfe48"
